@@ -20,7 +20,7 @@ title: "Young Blog"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "areema"
-description: "An amazing website."
+description: "기억력의 한계 때문에 만든 블로그"
 url: "https://areemak.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,15 +92,15 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "YoungSeung-Seo"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  bio: "1984.12.07"
+  location: "Korea"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:areemaFromKorea.@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/areemak"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
